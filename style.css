@@ -116,7 +116,7 @@ section {
     width: 32.8rem;
 }
 
-.home-content .text-animate h3 {
+.home-content .text-animate h2 {
     font-size: 5.0 rem;
     font-weight: 700;
     color: transparent;
@@ -129,7 +129,7 @@ section {
     animation-delay: 2s;
 }
 
-.home-content .text-animate h3::before {
+.home-content .text-animate h2::before {
     content: '';
     position: absolute;
     top: 0;
